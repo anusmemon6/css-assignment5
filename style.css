@@ -1,0 +1,101 @@
+
+.heading1{
+    margin: 0;
+    background-color: rgba(89, 89, 231, 0.616);
+    padding: 10px;
+    text-transform: uppercase;
+    text-align: center;
+    border: 1px solid black;
+}
+.heading2{
+    margin: 0;
+    background-color: rgba(255, 196, 0, 0.644);
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 20px;
+    padding: 5px;
+    border: 1px solid black;
+}
+.heading3{
+    margin: 0%;
+    background-color: rgba(154, 230, 40, 0.616);
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 20px;
+    padding: 5px;
+    border: 1px solid black;
+}
+#para1{
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+.heading4{
+    text-align: center;
+    background-color: yellow;
+    border: 1px solid black;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 20px;
+}
+.heading5{
+    text-align: center;
+    background-color: yellow;
+    border: 1px solid black;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 20px;
+}
+.heading6{
+    text-align: center;
+    background-color: yellow;
+    border: 1px solid black;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 20px;
+}
+#para4{
+  margin-top: 0px;
+}
+.heading7{
+    text-align: center;
+    background-color: yellow;
+    border: 1px solid black;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 20px;
+}
+.heading8{
+    text-align: center;
+    background-color: yellow;
+    border: 1px solid black;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 20px;
+}
+.heading9{
+    text-align: center;
+    background-color: yellow;
+    border: 1px solid black;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 20px;
+}
+
+.para2{
+    font-size: large;
+    list-style-type: square;
+    text-transform: capitalize;
+    margin-top: 50px;
+    background-color: rgba(126, 189, 32, 0.781);
+    padding-left: 20px;
+    border: 1px solid black;
+
+}
+.para3{
+    background-color: rgba(255, 217, 0, 0.884);
+    border: 1px solid black;
+    margin-top: 20px;
+    padding-left: 15px;
+}
+
+
